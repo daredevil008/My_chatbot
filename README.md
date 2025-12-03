@@ -8,24 +8,25 @@ A modular chatbot project built with Python, consisting of intent classification
 
 my_chatbot/
 ├── bot_artifacts/
-│   ├── intent_model.pkl
-│   ├── tokenizer.pkl
-│   └── response_db.json
+│   ├── intent_model.pkl            # Trained intent classification model
+│   ├── tokenizer.pkl               # Tokenizer for preprocessing
+│   └── response_db.json            # Predefined rules & responses
 │
 ├── chatbot/
-│   ├── __pycache__/
+│   ├── __pycache__/                # Python bytecode
 │   │   ├── bot.cpython-310.pyc
 │   │   ├── sentiment.cpython-310.pyc
 │   │   └── conversation.cpython-310.pyc
 │   │
-│   ├── bot.py
-│   ├── sentiment.py
-│   └── conversation.py
+│   ├── bot.py                      # Core chatbot engine
+│   ├── sentiment.py                # Sentiment analysis module
+│   └── conversation.py             # Dialogue/context handler
 │
 ├── templates/
-│   └── index.html
+│   └── index.html                  # Front-end chat UI
 │
-├── app.py
-├── requirements.txt
-└── README.md
+├── app.py                          # Flask/FastAPI backend
+├── requirements.txt                # Dependency list
+└── README.md                       # Project documentation
+
 
