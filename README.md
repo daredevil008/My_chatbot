@@ -83,3 +83,6 @@ Final sentiment is classified:
 ✔ 2. Display Sentiment With Each Message
 
 ✘ Trend or Mood Shift Summary Across Conversation
+
+
+Tests were optional. No automated tests were implemented for this project
