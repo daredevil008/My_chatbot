@@ -4,7 +4,7 @@ A modular chatbot project built with Python, consisting of intent classification
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```bash
 my_chatbot/
@@ -26,7 +26,7 @@ my_chatbot/
 
 ---
 
-## 🚀 How to Run
+🚀 How to Run
 
 Follow the steps below to set up and run the chatbot locally.
 
