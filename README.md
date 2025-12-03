@@ -48,4 +48,12 @@ python app.py
 6. Open your browser and visit:
 http://127.0.0.1:5000/
 
-    
+| Component          | Technology                              | Reason                                   |
+| ------------------ | --------------------------------------- | ---------------------------------------- |
+| Backend            | **Python**                              | Easy to develop NLP workflows            |
+| Web Framework      | **Flask**                               | Lightweight & simple routing             |
+| ML Models          | **scikit-learn, pickle**                | For intent classification & saved models |
+| Frontend           | **HTML (Jinja Templates)**              | Minimal UI for chat                      |
+| Sentiment Analysis | **Rule-based / lexicon-based approach** | Fast, no heavy model required            |
+| Data Handling      | **JSON**                                | For storing responses                    |
+
