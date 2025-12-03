@@ -74,3 +74,12 @@ Negative words (e.g., sad, bad, angry)
 Each matching word adds or subtracts from a total score.
 
 Final sentiment is classified:
+
+
+🧩 Tier 2 – Status Update
+
+✔ 1. Statement-Level Sentiment Analysis
+
+✔ 2. Display Sentiment With Each Message
+
+✘ Trend or Mood Shift Summary Across Conversation
