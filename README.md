@@ -31,26 +31,21 @@ my_chatbot/
 Follow the steps below to set up and run the chatbot locally.
 
 1. Navigate to the Project Directory
-```bash
 cd my_chatbot
 
 2. Create and Activate a Virtual Environment
-```bash
 python -m venv venv
 venv\Scripts\activate
 
 3. Install Dependencies
-```bash
 pip install -r requirements.txt
 
 4. Confirm Project Structure(as shown above)
 
 5. Run the Flask Application
-```bash
 python app.py
 
 6. Open your browser and visit:
-```bash
 http://127.0.0.1:5000/
 
     
