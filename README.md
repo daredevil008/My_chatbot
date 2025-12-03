@@ -57,3 +57,20 @@ http://127.0.0.1:5000/
 | Sentiment Analysis | Rule-based / lexicon-based approach |
 | Data Handling      | JSON                                |
 
+🧠 Explanation of Sentiment Logic
+
+The sentiment analysis module (sentiment.py) uses a lexicon-based scoring system:
+
+How it works:
+
+The input sentence is tokenized.
+
+Each token is compared against a predefined sentiment word list:
+
+Positive words (e.g., good, happy, love)
+
+Negative words (e.g., sad, bad, angry)
+
+Each matching word adds or subtracts from a total score.
+
+Final sentiment is classified:
