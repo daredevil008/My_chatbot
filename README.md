@@ -6,6 +6,7 @@ A modular chatbot project built with Python, consisting of intent classification
 
 ## 📁 Project Structure
 
+```bash
 my_chatbot/
 ├── bot_artifacts/
 │   ├── intent_model.pkl            # Trained intent classification model
@@ -28,5 +29,6 @@ my_chatbot/
 ├── app.py                          # Flask/FastAPI backend
 ├── requirements.txt                # Dependency list
 └── README.md                       # Project documentation
+
 
 
