@@ -86,5 +86,3 @@ Final sentiment is classified:
 
 
 Tests were optional. No automated tests were implemented for this project
-
-<img width="672" height="892" alt="image" src="https://github.com/user-attachments/assets/8302618a-d912-44c3-8b86-bfd9040c6cb2" />
